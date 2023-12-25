@@ -1,0 +1,60 @@
+<Project name="keshav_akshit_g17_2">
+  <hierarchy />
+  <messagelist>
+    <message status="warning" label="validation">
+      <Definition scope="keshav_akshit_g17_2" name="Station" status="warning" link="1369778544" /><![CDATA[Definition 'Station' has an invalid crc value, it may be corrupt.]]></message>
+    <message status="warning" label="validation">
+      <Definition scope="keshav_akshit_g17_2" name="Main" status="warning" link="855403885" /><![CDATA[Definition 'Main' has an invalid crc value, it may be corrupt.]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[Generating network and source code 'C:\Users\acer\OneDrive\Desktop\EE310_Term_Project_G17_Batch1\keshav_akshit_g17_2.gf42\Main.f'.]]></message>
+    <message status="warning" label="build">
+      <Wire scope="keshav_akshit_g17_2" name="project17:TLine_1" status="warning" link="1450882154" /><![CDATA[Implicit connection to an non-ideal wire. Connections must be at end points; not along the body.]]></message>
+    <message status="warning" label="build">
+      <Wire scope="keshav_akshit_g17_2" name="project17:TLine_8" status="warning" link="533052319" /><![CDATA[Implicit connection to an non-ideal wire. Connections must be at end points; not along the body.]]></message>
+    <message status="warning" label="build">
+      <User scope="keshav_akshit_g17_2" name="master:tpflt" status="warning" link="1747839004" /><![CDATA[Suspicious isolated node detected.]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[Generating 'C:\Users\acer\OneDrive\Desktop\EE310_Term_Project_G17_Batch1\keshav_akshit_g17_2.gf42\keshav_akshit_g17_2.map'.]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[Time for Compile: 187ms  Make: 0ms]]></message>
+    <message status="normal" label="build">
+      <Wire scope="keshav_akshit_g17_2" name="project17:TLine_1" status="normal" link="1450882154" /><![CDATA[Solving right-of-way coupling using 'C:\Users\acer\OneDrive\Desktop\EE310_Term_Project_G17_Batch1\keshav_akshit_g17_2.gf42\L1_2.tli'.]]></message>
+    <message status="normal" label="build">
+      <Wire scope="keshav_akshit_g17_2" name="project17:TLine_2" status="normal" link="1381986175" /><![CDATA[Solving right-of-way coupling using 'C:\Users\acer\OneDrive\Desktop\EE310_Term_Project_G17_Batch1\keshav_akshit_g17_2.gf42\L1_3.tli'.]]></message>
+    <message status="normal" label="build">
+      <Wire scope="keshav_akshit_g17_2" name="project17:TLine_3" status="normal" link="740431383" /><![CDATA[Solving right-of-way coupling using 'C:\Users\acer\OneDrive\Desktop\EE310_Term_Project_G17_Batch1\keshav_akshit_g17_2.gf42\L3_4.tli'.]]></message>
+    <message status="normal" label="build">
+      <Wire scope="keshav_akshit_g17_2" name="project17:TLine_5" status="normal" link="95526013" /><![CDATA[Solving right-of-way coupling using 'C:\Users\acer\OneDrive\Desktop\EE310_Term_Project_G17_Batch1\keshav_akshit_g17_2.gf42\L4_5.tli'.]]></message>
+    <message status="normal" label="build">
+      <Wire scope="keshav_akshit_g17_2" name="project17:TLine_6" status="normal" link="327464886" /><![CDATA[Solving right-of-way coupling using 'C:\Users\acer\OneDrive\Desktop\EE310_Term_Project_G17_Batch1\keshav_akshit_g17_2.gf42\L2_3.tli'.]]></message>
+    <message status="normal" label="build">
+      <Wire scope="keshav_akshit_g17_2" name="project17:TLine_7" status="normal" link="1199356117" /><![CDATA[Solving right-of-way coupling using 'C:\Users\acer\OneDrive\Desktop\EE310_Term_Project_G17_Batch1\keshav_akshit_g17_2.gf42\L2_4.tli'.]]></message>
+    <message status="normal" label="build">
+      <Wire scope="keshav_akshit_g17_2" name="project17:TLine_8" status="normal" link="533052319" /><![CDATA[Solving right-of-way coupling using 'C:\Users\acer\OneDrive\Desktop\EE310_Term_Project_G17_Batch1\keshav_akshit_g17_2.gf42\L2_5.tli'.]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[Solve Time = 657ms]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[Will execute: call D:\bin\gf42vars.bat]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[Will execute: make -f keshav_akshit_g17_2.mak]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[Will execute: C:\Users\acer\OneDrive\Desktop\EE310_~1\KESHAV~2.GF4\\KESHAV~1.BAT]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[C:\Users\acer\OneDrive\Desktop\EE310_Term_Project_G17_Batch1\keshav_akshit_g17_2.gf42>call D:\bin\gf42vars.bat ]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[Compiling generated source 'Station.f' into object code.]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[Compiling generated source 'Main.f' into object code.]]></message>
+    <message status="normal" label="build" scope="keshav_akshit_g17_2"><![CDATA[Linking object code and libraries into binary 'keshav_akshit_g17_2.exe']]></message>
+  </messagelist>
+  <emt>
+    <netlist name="Station" call_count="1" ss_count="0">
+      <signals>
+        <signal name="GND" dim="1" ss_id="0" node_map_count="1" local_storage_index="0">
+          <sg_points />
+          <node_number global="0" sg_local="0" sg_callindex="0" />
+        </signal>
+      </signals>
+      <components>
+        <component id="669488078" />
+      </components>
+    </netlist>
+  </emt>
+  <views>
+    <view name="Main" zoomlevel="6" scrollx="0" scrolly="0" />
+  </views>
+  <catalog>
+    <group name="(No Label)" />
+  </catalog>
+</Project>

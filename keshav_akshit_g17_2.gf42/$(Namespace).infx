@@ -1,0 +1,43 @@
+<output name="keshav_akshit_g17_2" device="EMTDC" version="2010" date="2023/05/10" time="16:06:24.000000">
+  <paramlist />
+  <domain name="Time" unit="s" mult="0.0" skew="0.0">
+    <sample rate="59.9999988" end="1200" />
+  </domain>
+  <analog>
+    <channel index="0" id="1921428558:0" name="P2_5" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="1" id="1100472975:0" name="P1_2" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="2" id="1431568797:0" name="P3_4" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="3" id="4855420:0" name="Q2_5" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="4" id="304706543:0" name="Q1_2" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="5" id="805075700:0" name="Q3_4" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="6" id="200561740:0" name="P1_3" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="7" id="327422475:0" name="P2_3" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="8" id="1903446313:0" name="P2_4" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="9" id="171410154:0" name="Q1_3" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="10" id="377694366:0" name="Q2_3" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="11" id="623025761:0" name="Q2_4" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="12" id="722553323:0" name="V5" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="13" id="132899179:0" name="V4" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="14" id="1790263300:0" name="P2_inj" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="15" id="78821986:0" name="P4" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="16" id="2129239322:0" name="P3" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="17" id="19070905:0" name="Q4" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="18" id="1264450388:0" name="Q3" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="19" id="1872170383:0" name="Q2_inj" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="20" id="1336193431:0" name="P5" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="21" id="488009209:0" name="Q5" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="22" id="2108085870:0" name="Vb4" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="23" id="963353003:0" name="Vb5" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="24" id="474047971:0" name="Vph5_rms" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="25" id="529573231:0" name="Vf5_rms" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="26" id="826585470:0" name="Vph4_rms" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="27" id="1513104993:0" name="Vf4_rms" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="28" id="71260663:0" name="Vph3_rms" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="29" id="1969969740:0" name="Vf3_rms" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="30" id="1400014093:0" name="Vph2_rms" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="31" id="340062103:0" name="Vf2_rms" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="32" id="781275858:0" name="Vph1_rms" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    <channel index="33" id="1734396186:0" name="Vf1_rms" label="" dim="1" unit="" min="-2.0" max="2.0" />
+  </analog>
+  <digital />
+</output>
